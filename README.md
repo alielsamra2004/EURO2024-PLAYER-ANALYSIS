@@ -24,7 +24,7 @@ This project aims to:
 
 - Python (Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib)
 - Jupyter Notebook
-- 
+
 ## 🚀 How to Run
 
 1. **Clone the repo**  
