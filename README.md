@@ -24,8 +24,7 @@ This project aims to:
 
 - Python (Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib)
 - Jupyter Notebook
-- (Optional: BeautifulSoup, `nba_api`, or other data sources depending on how data is collected)
-
+- 
 ## 🚀 How to Run
 
 1. **Clone the repo**  
