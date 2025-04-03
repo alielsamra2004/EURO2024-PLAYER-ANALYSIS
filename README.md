@@ -40,7 +40,7 @@ This project aims to:
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/yourusername/EURO2024-Player-Analysis.git
+git clone https://github.com/alielsamra2004/EURO2024-Player-Analysis.git
 cd EURO2024-Player-Analysis
 ```
 
@@ -60,10 +60,8 @@ Open `EURO_2024_Player_Analysis_Hands_On_Experience.ipynb` in Jupyter Notebook o
 > If using Colab, upload the file manually or use:
 
 ```python
-df = pd.read_csv("https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/euro_2024.csv")
+df = pd.read_csv("https://raw.githubusercontent.com/alielsamra2004/EURO2024-PLAYER-ANALYSIS/main/euro_2024.csv")
 ```
-
-Replace `YOUR_USERNAME` and `YOUR_REPO_NAME` with your actual GitHub path.
 
 ---
 
